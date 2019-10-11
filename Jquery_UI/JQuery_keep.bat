@@ -1,0 +1,1 @@
+cmd /k Jquery.test.bat
